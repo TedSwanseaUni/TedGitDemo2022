@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class dhruv : MonoBehaviour
+public class iameverywhere : MonoBehaviour
 {
 
 
@@ -10,6 +10,9 @@ public class dhruv : MonoBehaviour
 
 
     // Start is called before the first frame update
+
+    //GUess who
+
     void Start()
     {
         
